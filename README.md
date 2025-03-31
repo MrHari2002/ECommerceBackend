@@ -1,4 +1,4 @@
-# Module Two final project
+# ECommerce Backend
 
 In this project, I've build a REST API to support an e-commerce shopping cart.
 
